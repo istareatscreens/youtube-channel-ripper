@@ -1,0 +1,15 @@
+# Core dependencies for YouTube Channel Ripper
+yt-dlp>=2024.5.27
+requests>=2.32.3
+
+# Selenium and web scraping (kept for compatibility)
+beautifulsoup4==4.12.3
+selenium==4.27.1
+
+# Network and utility
+certifi>=2024.12.14
+urllib3>=2.3.0
+PySocks>=1.7.1
+
+# Optional dependencies
+python-dotenv>=1.0.1
